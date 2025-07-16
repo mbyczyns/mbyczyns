@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my own AI based personal assistant](in_progress)
 
-- 🌱 I’m currently learning **TensorFlow, Keras**
+- 🌱 I’m currently learning **TensorFlow, Keras, PyTorch**
 
 
 <h3 align="left">Languages and Tools:</h3>
